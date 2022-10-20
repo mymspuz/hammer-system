@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[36],{520:function(e,s,n){"use strict";n.r(s);n(0);var o=n(4);s.default=function(){return Object(o.jsx)("div",{children:"PromoCode component works!"})}}}]);
+//# sourceMappingURL=36.338350b2.chunk.js.map
