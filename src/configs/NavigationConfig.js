@@ -196,9 +196,9 @@ const systemsNavTree = [{
       submenu: []
     },
     {
-      key: 'logs',
+      key: 'logss',
       path: `${APP_PREFIX_PATH}/systems/logs`,
-      title: 'sidenav.systems.logs',
+      title: 'sidenav.systems.logss',
       icon: FileTextOutlined,
       breadcrumb: false,
       submenu: []

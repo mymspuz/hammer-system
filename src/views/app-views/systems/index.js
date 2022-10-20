@@ -9,7 +9,7 @@ const Systems = ({ match }) => {
                 <Redirect exact from={`${match.url}`} to={`${match.url}/settings`} />
                 <Route path={`${match.url}/settings`} component={lazy(() => import(`./settings`))} />
                 <Route path={`${match.url}/mobile_app`} component={lazy(() => import(`./mobile_app`))} />
-                <Route path={`${match.url}/logs`} component={lazy(() => import(`./logs`))} />
+                <Route path={`${match.url}/logs`} component={lazy(() => import(`./logss`))} />
             </Switch>
         </Suspense>
     )};
